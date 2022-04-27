@@ -1,6 +1,6 @@
 # password-generator
 
-## This project helps you to generate a password everytime this project is executed.
+## This project helps you to generate a password of length 10 characters everytime this project is executed.
 
 ## Steps to clone the app into local machine: 
 
